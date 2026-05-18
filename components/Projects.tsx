@@ -18,13 +18,13 @@ const projects: Project[] = [
     tags: ["Next.js", "Laravel", "MySQL"],
   },
   {
-    title: "Alfimar Realty Inc",
+    title: "Alfima Realty Inc",
     url: "https://www.alfimarealtyinc.com/",
     description: "Real estate property listing and management platform",
     tags: ["Next.js", "TypeScript", "MySQL"],
   },
   {
-    title: "Anila Os Diving Center",
+    title: "Anilao Scuba Diving Center",
     url: "https://anilaoscubadivingcenter.vercel.app/",
     description: "Diving center website with booking and service information",
     tags: ["Next.js", "React", "Tailwind CSS"],
