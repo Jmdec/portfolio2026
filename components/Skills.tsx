@@ -77,7 +77,7 @@ export function Skills() {
             Professional Summary
           </h3>
           <p className="text-muted-foreground leading-relaxed mb-4">
-            With over 2 years of professional experience, I have successfully
+            With over 3 years of professional experience, I have successfully
             developed and deployed multiple web applications across various
             industries including real estate, hospitality, and tourism. My
             expertise spans the entire full-stack development lifecycle, from
